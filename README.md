@@ -15,6 +15,23 @@
 所有的 Workflow 基本都可以 **免费** 使用，更多 Workflow 收集整理中……
 
 
+## ❤️赞助商
+
+<details open>
+<summary>点击折叠</summary>
+
+<table>
+<tr>
+<td width="180"><a href="https://www.compshare.cn/coding-plan?ytag=GPU_YY_YX_git_Awesome-Dify-Workflow"><img src="assets/partners/logos/ucloud.png" alt="优云智算" width="150"></a></td>
+<td>感谢优云智算赞助了本项目！优云智算是UCloud旗下AI云平台，提供稳定、全面的国内外模型API，仅一个key即可调用。主打包月、按量的高性价比 Coding Plan 套餐，基于官方2~5折优惠。支持接入 Claude Code、Codex 及 API 调用。支持企业高并发、7*24技术支持、自助开票。通过<a href="https://www.compshare.cn/coding-plan?ytag=GPU_YY_YX_git_Awesome-Dify-Workflow">此链接</a>注册的用户，可得免费5元平台体验金！</td>
+</tr>
+
+
+</table>
+
+</details>
+
+
 ## 常见问题
 这里总结了一些群里常见的问题，不定期更新，内容不会很多，希望对你有帮助。
 
